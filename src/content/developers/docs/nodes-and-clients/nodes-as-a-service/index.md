@@ -84,15 +84,17 @@ Here is a list of some of the most popular Ethereum node providers, feel free to
 - [**Chainstack**](https://chainstack.com/)
   - [Docs](https://docs.chainstack.com/)
   - Features
-    - Free shared nodes
-    - Shared archive nodes
+    - Free elastic nodes
+    - elastic archive nodes
     - GraphQL support
     - RPC and WSS endpoints
     - Dedicated full and archive nodes
     - Fast sync time for dedicated deployments
+    - Globally distributed infrastructure
     - Bring your cloud
     - Pay-per-hour pricing
     - Direct 24/7 support
+    - Pay in crypto
 - [**DataHub**](https://datahub.figment.io)
   - [Docs](https://docs.figment.io/)
   - Features
